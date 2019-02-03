@@ -6,15 +6,15 @@ Les fichiers HTML et jQuery sont fournis. **Attention**. Comme pour Bootstrap, o
 
 ## Exercice 1 :
 
-Cacher la div **text**.
+Cacher le paragraphe **text**.
 
 ## Exercice 2 :
 
-Afficher la div **text**.
+Afficher le paragraphe **text**.
 
 ## Exercice 3 :
 
-Changer le font-family de la div **text** en "Arial".
+Changer le font-family du paragraphe **text** en "Arial".
 
 ## Exercice 4 :
 
@@ -22,7 +22,7 @@ Changer la couleur de toutes les balises **li** en rouge.
 
 ## Exercice 5 :
 
-Vider la div **secondText**.
+Vider le paragraphe **secondText**.
 
 ## Exercice 6 :
 
@@ -38,8 +38,8 @@ Donner à tous les éléments **li** enfants de **ol** la couleur rouge.
 
 ## Exercice 9 :
 
-Donner aux div **firstText** et **thirdText** une bordure de 5 pixels, verte à pointillés ("5px green dashed").
+Donner aux paragraphes **firstText** et **thirdText** une bordure de 5 pixels, verte à pointillés ("5px green dashed").
 
 ## Exercice 10 :
 
-Du JQuery est déjà présent et permet de cacher tous les éléments de la classe **hide**. Ajouter cette classe à la div **thirdText**.
+Du JQuery est déjà présent dans un fichier **script.js** et permet de cacher tous les éléments de la classe **hide**. Ajouter cette classe au paragraphe **thirdText**.
