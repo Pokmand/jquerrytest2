@@ -14,7 +14,7 @@ Afficher le paragraphe **text**.
 
 ## Exercice 3 :
 
-Changer le font-family du paragraphe **text** en "Arial".
+Changer le font-family du paragraphe **text** en **Arial**.
 
 ## Exercice 4 :
 
